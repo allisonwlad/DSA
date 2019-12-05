@@ -1,2 +1,2 @@
 # DSA
-curos DSA Cientista de dados
+cursos DSA Cientista de dados
